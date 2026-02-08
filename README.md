@@ -15,7 +15,7 @@ I am a **Senior Software Engineer** with over 5 years of experience in architect
 
 ### 🛠 Tech Stack
 - **Languages:** Typescript, JavaScript (Node.js), SQL, Python, C, Git.
-- **Infrastructure:** Temporal, Redis, Kafka, Azure OpenAI, ACS, GraphQL.
+- **Infrastructure:** Temporal, Redis, Kafka, Azure, AWS, GraphQL.
 - **Concepts:** Distributed Systems, Microservices Architecture, Event-Driven Architecture, LLM Orchestration.
 
 ### 📫 Let's Connect
