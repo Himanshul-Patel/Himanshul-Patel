@@ -3,7 +3,8 @@
 ### 👨‍💻 About Me
 I am a **Senior Software Engineer** with over 5 years of experience in architecting high-scale, distributed systems and AI-driven platforms. My expertise lies at the intersection of **AI Orchestration**, **Real-time Communications**, and **Microservices Architecture**. I have a proven track record of building resilient backends—from AI agents processing ~5k daily sessions to reusable microservice backbones that accelerate partner onboarding from weeks to days.
 
-Currently, I am learning Java.
+### 📚 Currently Learning
+- **Java Ecosystem:** Deep-diving into **Java** to expand my expertise in enterprise-grade distributed systems and robust backend architectures.
 
 ---
 
